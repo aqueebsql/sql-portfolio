@@ -25,3 +25,4 @@ ORDER BY num_shows DESC;
 SELECT type, COUNT(*) AS count_type
 FROM shows
 GROUP BY type;
+
