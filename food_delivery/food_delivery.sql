@@ -29,3 +29,4 @@ FROM orders
 GROUP BY restaurant_id
 ORDER BY revenue DESC
 LIMIT 5;
+
