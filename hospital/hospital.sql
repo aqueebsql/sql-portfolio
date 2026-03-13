@@ -28,3 +28,4 @@ SELECT d.name, COUNT(p.patient_id) AS patient_count
 FROM doctors d
 JOIN patients p ON d.doctor_id = p.doctor_id
 GROUP BY d.name;
+
