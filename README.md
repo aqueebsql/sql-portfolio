@@ -1,0 +1,33 @@
+# SQL Data Analysis Portfolio
+
+This repository contains real-world SQL data analysis projects demonstrating data handling and business insights.
+
+## Projects
+
+### 1️⃣ E-commerce Sales Analysis
+**Tables:** customers, orders  
+**Queries:** total revenue, top 5 customers, monthly sales trends
+
+### 2️⃣ Netflix Data Analysis
+**Tables:** shows  
+**Queries:** movies vs TV shows, country-wise content distribution, genre trends
+
+### 3️⃣ Food Delivery Analytics
+**Tables:** restaurants, orders  
+**Queries:** top selling restaurants, revenue trends, order patterns
+
+### 4️⃣ Hospital Management Database
+**Tables:** doctors, patients  
+**Queries:** patients per doctor, appointments, database management
+
+### 5️⃣ Customer Churn Analysis
+**Tables:** customers  
+**Queries:** total churn, churn rate, retention insights
+
+---
+
+## Tools Used
+- SQL
+- Git
+- GitHub
+- Termux
